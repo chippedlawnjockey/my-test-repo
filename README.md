@@ -1,4 +1,4 @@
-This is a merge conflict example.
+Hello Cloud Gurus!
 
 lkajfk ;lafsdj
 adjf;lkja f;alkjf
