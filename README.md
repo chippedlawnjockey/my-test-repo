@@ -1,3 +1,7 @@
-This is a new line
-# This is my readme file
-Hello everybody
+This is a merge conflict example.
+
+lkajfk ;lafsdj
+adjf;lkja f;alkjf
+afd;jakklf af
+djkfjafljd
+
