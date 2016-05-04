@@ -1,7 +1,3 @@
-This is a merge conflict example.
-
-lkajfk ;lafsdj
-adjf;lkja f;alkjf
-afd;jakklf af
-djkfjafljd
-
+This is my PR
+# my-test
+My Test Repo
